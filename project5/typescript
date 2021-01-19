@@ -1,0 +1,20 @@
+Script started on Fri 17 Apr 2020 02:23:57 AM CDT
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ exit./main.exeg++ -Wall *.cpp -o main.exe
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ g++ -Wall *.cpp -o main.exeexit[K./main.exe
+Welcome to the book sorter
+Please enter a book name. Dracula.txt
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ sort -n book.count > book.frequency
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ sort -n book.count > book.frequency./main.exe[K
+Welcome to the book sorter
+Please enter a book name. CallWild.txt
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ ./main.exesort -n book.count > book.frequency
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ AnneGables.txt
+AnneGables.txt: command not found
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ AnneGables.txtsort -n book.count > book.frequency./main.exe[K
+Welcome to the book sorter
+Please enter a book name. AnneGables.txt
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ ./main.exeAnneGables.txtsort -n book.count > book.frequency
+]0;jcsibria@turing: ~/PF2Projects/project5jcsibria@turing:~/PF2Projects/project5$ exit
+exit
+
+Script done on Fri 17 Apr 2020 02:26:38 AM CDT

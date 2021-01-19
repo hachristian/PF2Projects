@@ -1,0 +1,101 @@
+10
+Chain Lightning
+One red mana
+Sorcery
+Chain Lightning deals 3 damage to any target..(cont.)
+123
+Common
+New
+2.45
+2.45
+3
+Talas Scout
+One blue mana
+Creature - Human Pirate Scout
+Flying
+52  
+common
+New 
+0.72
+0.72
+4
+Psionic Blast
+Two blue mana
+Instant
+Psionic Blast deals 4 damage to any target and 2 damage to you.
+30
+Special
+New 
+5.64
+5.64
+2
+Benevolent Ancestor
+Two white mana
+Creature - Spirit
+Defender (this creature can't attack) prevent the..(cont.)
+12
+Common
+New
+0.01
+0.01
+5
+Goblin Glory Chaser
+One red mana
+Creature - Goblin Warrior
+Renown one (When this creature deals combat damage..(cont.)
+43
+Uncommon
+New
+0.65
+0.65
+3
+Allied Strategies
+Four blue mana
+Sorcery
+Domain - Target player draws a card for each basic land..(cont.)
+63
+Uncommon
+New
+0.68
+0.68
+6
+Nomad Outpost
+Land
+Land
+Nomad Outpost enters the battle field tapped..(cont.)
+265
+Uncommon
+New
+1.29
+1.29
+12
+Earth Rift 
+Three red mana
+Sorcery
+Destroy target land..(cont.)
+189
+Common
+New
+0.71
+0.71
+10
+Bloodrock Cyclops
+Two red mana
+Creature - Cyclops
+Bloodrock attacks each combat if able.
+192
+common
+New
+0.67
+0.67
+5
+Black Lotus
+Zero mana
+Artifact 
+Sacrifice Black Lotus: Add three mana of any one color.
+4
+Bonus
+Damaged 
+6499.99
+6499.99
+2
